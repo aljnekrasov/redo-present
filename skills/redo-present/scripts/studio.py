@@ -43,7 +43,7 @@ def palette(content):
     return options
 
 def background_css(option):
-    return '[data-background-surface]{background-color:'+option['color']+'!important;color:'+option['textColor']+'!important}[data-background-ink]{color:'+option['textColor']+'!important}[data-background-pattern]{display:none!important}'+('[data-background-pattern]:not([data-pattern-allowed="false"]){display:block!important}' if option.get('pattern',False) else '')
+    return ':root [data-background-surface]{background:'+option['color']+'!important;color:'+option['textColor']+'!important;isolation:isolate}:where([data-background-surface]) > :where(:not([data-background-pattern])){position:relative;z-index:1}:root [data-background-ink]{color:'+option['textColor']+'!important}[data-background-pattern]{display:none!important;z-index:0!important;pointer-events:none;color:'+option['textColor']+'!important}'+('[data-background-pattern]:not([data-pattern-allowed="false"]){display:block!important}' if option.get('pattern',False) else '')
 
 def inspect(root):
     root=root.resolve()
@@ -59,6 +59,10 @@ def inspect(root):
         if not blocks or not all(isinstance(v,str) for v in blocks.values()):raise ValueError('Blocks must be nonempty text mappings')
         vv=variants[s['id']]
         if len(vv)!=5 or [v['number'] for v in vv]!=[1,2,3,4,5]:raise ValueError(f"{s['id']}: expected variants 1–5")
+        if any('origin' in v for v in vv):
+            if [v.get('origin') for v in vv]!=['library']*3+['generated']*2:raise ValueError('Expected three library layouts followed by two generated layouts')
+            refs=[v.get('templateRef') for v in vv[:3]]
+            if any(not isinstance(ref,str) or not ref.strip() for ref in refs) or len(set(refs))!=3:raise ValueError('Library layouts need three distinct actual template references')
         for v in vv:
             name=v['path']
             if not name.startswith('variants/') or not name.endswith('.html') or name in paths:raise ValueError('Variant paths must be unique HTML files inside variants/')

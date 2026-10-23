@@ -5,3 +5,5 @@
 @media(prefers-reduced-motion:reduce){main{scroll-behavior:auto}}
 
 .design-rail{display:flex;flex-direction:column;gap:8px;min-height:0}.design-rail .variants{flex:1}.background-picker{display:flex;flex-direction:column;gap:4px;font-size:11px;flex-shrink:0}.background-picker select{width:100%;min-width:0;padding:6px;border:1px solid #cecac1;background:#fffdf9;color:#282724;font:12px Arial;min-height:32px}select:focus-visible{outline:3px solid var(--accent)}
+
+.swatches{display:flex;flex-wrap:wrap;gap:8px;padding:4px}.swatch{border-radius:50%;width:28px;height:28px;min-height:28px;flex:0 0 28px;padding:0;border:1px solid #8888;background:var(--swatch-color)!important;position:relative}.swatch.patterned{background:repeating-linear-gradient(135deg,transparent 0 4px,var(--swatch-ink) 4px 5px,transparent 5px 8px),var(--swatch-color)!important}.swatch.original{background:conic-gradient(#eee 0 25%,#999 0 50%,#eee 0 75%,#999 0)!important}.swatch[aria-pressed=true]{outline:2px solid var(--accent);outline-offset:3px}.swatch:hover{transform:scale(1.08)}@media(max-width:550px){.swatches{gap:6px}.swatch{width:24px;height:24px;min-height:24px;flex-basis:24px}}

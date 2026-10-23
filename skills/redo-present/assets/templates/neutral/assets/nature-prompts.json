@@ -1,0 +1,26 @@
+{
+  "method": "Built-in image_gen",
+  "synthetic": true,
+  "images": [
+    {
+      "file": "nature-1.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: reusable nature photo for presentation templates. Subject: Deep blue ocean with a sweeping white surf wave seen from above, natural rugged coast, no buildings. Authentic editorial landscape photography, realistic fine detail, restrained natural colors. Wide landscape composition, 3:2 aspect ratio, strong central subject also suitable for portrait crops. Full bleed photograph only. No people, buildings, text, logos, watermarks, frames or collage."
+    },
+    {
+      "file": "nature-2.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: reusable nature photo for presentation templates. Subject: Alpine lake beneath layered mountain ridges, cool blue water and soft morning mist. Authentic editorial landscape photography, realistic fine detail, restrained natural colors. Wide landscape composition, 3:2 aspect ratio, strong central subject also suitable for portrait crops. Full bleed photograph only. No people, buildings, text, logos, watermarks, frames or collage."
+    },
+    {
+      "file": "nature-3.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: reusable nature photo for presentation templates. Subject: Lush temperate forest with tall trees, delicate mist and natural soft daylight. Authentic editorial landscape photography, realistic fine detail, restrained natural colors. Wide landscape composition, 3:2 aspect ratio, strong central subject also suitable for portrait crops. Full bleed photograph only. No people, buildings, text, logos, watermarks, frames or collage."
+    },
+    {
+      "file": "nature-4.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: reusable nature photo for presentation templates. Subject: Sculptural sand dunes with fine wind textures and long shadows in warm evening light. Authentic editorial landscape photography, realistic fine detail, restrained natural colors. Wide landscape composition, 3:2 aspect ratio, strong central subject also suitable for portrait crops. Full bleed photograph only. No people, buildings, text, logos, watermarks, frames or collage."
+    },
+    {
+      "file": "nature-5.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: reusable nature photo for presentation templates. Subject: Waterfall descending over dark rocks into a clear forest pool, lush foliage. Authentic editorial landscape photography, realistic fine detail, restrained natural colors. Wide landscape composition, 3:2 aspect ratio, strong central subject also suitable for portrait crops. Full bleed photograph only. No people, buildings, text, logos, watermarks, frames or collage."
+    }
+  ]
+}

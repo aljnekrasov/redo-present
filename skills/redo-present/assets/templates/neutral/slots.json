@@ -601,11 +601,6 @@
   },
   {
     "layout": "019",
-    "slot": "logo",
-    "placeholder": "ЛОГО"
-  },
-  {
-    "layout": "019",
     "slot": "closing-title",
     "placeholder": "Завершение"
   },

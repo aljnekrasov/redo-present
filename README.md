@@ -22,6 +22,7 @@ Skill для создания презентаций: пять композиц�
 
 - Инструкции процесса — `skills/redo-present/SKILL.md`.
 - Нейтральная библиотека и каталог — `skills/redo-present/assets/templates/neutral/index.html`.
+- Отдельная инструкция стилизации под клиента — `skills/redo-present/assets/templates/neutral/client-styling.md`.
 - Инструкция адаптации — `skills/redo-present/assets/templates/neutral/instructions.md`.
 - Постоянный просмотрщик — `skills/redo-present/assets/viewer/`.
 - Проверка содержимого, версии и сборка — `skills/redo-present/scripts/studio.py`.

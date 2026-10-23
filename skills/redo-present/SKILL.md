@@ -19,7 +19,7 @@ Read [the bundle format and commands](references/format.md). Store canonical tex
 
 Generate static HTML variants and variants.json. All dependencies must live inside the working bundle. Run the bundled `scripts/studio.py validate` and `prepare` commands with absolute paths. Prepare copies the existing `assets/viewer/` into the bundle and records its identity; do not generate a new selector. Visually inspect every variant for loading, clipping, collisions and readability. Text validation is not a substitute for visual inspection.
 
-Open the bundle's selector.html, preferably through a loopback-only local HTTP server rooted at the working project. Reuse an existing suitable server when available. Let the user browse and explicitly confirm one variant per slide. Give the selector link and wait for their choices; do not invent them. If the user explicitly bypasses this stage or requests a different scope, honor the request.
+Open the bundle's selector.html, preferably through a loopback-only local HTTP server rooted at the working project. Reuse an existing suitable server when available. The selector is a vertically scrolling deck with slide navigation on the left and five variants on the right of each slide. Variant 1 is selected by default; clicking a variant immediately saves that choice, with no confirmation button. Give the selector link and wait for the user to return their list or selection file before assembly; default values alone do not mean the user has finished reviewing. If the user explicitly bypasses this stage or requests a different scope, honor the request.
 
 ## Assemble the chosen presentation
 

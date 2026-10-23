@@ -2,9 +2,9 @@
 <header><strong>Presentation Studio</strong><span id="project"></span><span id="progress" aria-live="polite"></span></header>
 <div class="workspace"><aside><p class="eyebrow">Слайды</p><nav id="slides" aria-label="Слайды презентации"></nav><button id="overview-toggle">Обзор выбора</button></aside>
 <main><div class="heading"><div><p id="position" class="eyebrow"></p><h1 id="title"></h1></div><div class="arrows"><button id="prev" aria-label="Предыдущий слайд">←</button><button id="next" aria-label="Следующий слайд">→</button></div></div>
-<div class="stage canvas"><iframe id="preview" title="Просмотр варианта" sandbox="allow-same-origin"></iframe></div>
+<div class="preview-space"><div class="stage canvas"><iframe id="preview" title="Просмотр варианта" sandbox="allow-same-origin"></iframe></div></div>
 <div id="variants" class="variants" role="group" aria-label="Варианты дизайна"></div>
 <div class="confirm-row"><span id="current-status" aria-live="polite"></span><button id="confirm" class="primary">Выбрать этот вариант</button></div>
-<section id="overview" hidden><h2>Выбранные слайды</h2><div id="overview-grid"></div></section>
+<section id="overview" hidden role="dialog" aria-modal="true" aria-label="Обзор выбора"><div class="overview-heading"><h2>Выбранные слайды</h2><button id="overview-close">Закрыть</button></div><div id="overview-grid"></div></section>
 <section class="result"><h2>Ваш выбор</h2><p id="instructions">Выберите дизайн для каждого слайда.</p><textarea id="selection" readonly aria-label="Список выбранных вариантов"></textarea><div class="actions"><button id="copy" disabled>Скопировать выбор</button><button id="download" disabled>Скачать выбор</button></div><p id="notice" role="status"></p></section>
 </main></div><script src="studio-data.js"></script><script src="studio.js"></script></body></html>

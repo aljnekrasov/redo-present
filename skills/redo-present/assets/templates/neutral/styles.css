@@ -29,4 +29,4 @@ p{margin:0}
 @page{size:20in 11.25in;margin:0}
 @media print{.slide-page{width:1920px;height:1080px;background:none}.slide{transform:none!important;margin:0!important;break-after:page;print-color-adjust:exact;-webkit-print-color-adjust:exact}}
 
-.wave-pattern{position:absolute;inset:0;pointer-events:none;background:currentColor;mask:var(--pattern-image) center/cover no-repeat;-webkit-mask:var(--pattern-image) center/cover no-repeat;opacity:var(--pattern-opacity);z-index:0}.placeholder-media{object-fit:cover}.slide>div>p,.slide>div>div:has(>p){z-index:1}
+.wave-pattern{position:absolute;inset:0;pointer-events:none;background:currentColor;mask:var(--pattern-image) 0 0/var(--pattern-size) repeat;-webkit-mask:var(--pattern-image) 0 0/var(--pattern-size) repeat;opacity:var(--pattern-opacity);z-index:0}.placeholder-media{object-fit:cover}.slide>div>p,.slide>div>div:has(>p){z-index:1}

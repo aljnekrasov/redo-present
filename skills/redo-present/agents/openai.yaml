@@ -1,0 +1,4 @@
+interface:
+  display_name: "Redo Present"
+  short_description: "Пять дизайнов слайда и сборка выбранной презентации"
+  default_prompt: "Используй $redo-present: создай пять вариантов каждого слайда по моим материалам и открой выбор дизайна."

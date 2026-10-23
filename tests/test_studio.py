@@ -44,4 +44,21 @@ class StudioTest(unittest.TestCase):
  def test_plain_list_requires_identity(self):
   with self.assertRaises(ValueError):m.assemble(self.root,self.base/'bad','2,5,1')
   m.assemble(self.root,self.base/'ok','2, 5\n1',expected=self.man['fingerprint'])
+ def enable_backgrounds(self):
+  c=m.read(self.root/'content.json');c['version']='2';c['backgroundOptions']=[{'id':'blue','label':'Blue','color':'#123B64','textColor':'#FFFFFF'}];m.write(self.root/'content.json',c)
+  for p in (self.root/'variants').rglob('*.html'):p.write_text(p.read_text().replace('<h1','<h1 data-background-surface data-background-ink'))
+  m.prepare(self.root);self.man=m.read(self.root/'manifest.json')
+ def test_background_selection_assembly(self):
+  self.enable_backgrounds();p=self.selection([1,2,3]);d=m.read(p);d['backgrounds']=['blue',None,None];m.write(p,d);out=self.base/'colors';m.assemble(self.root,out,None,p)
+  self.assertIn(m.background_css(self.man['backgroundOptions'][0]),(out/'variants/cover/1.html').read_text())
+  self.assertEqual((out/'variants/metrics/2.html').read_bytes(),(self.root/'variants/metrics/2.html').read_bytes())
+  self.assertEqual(m.read(out/'selection.json')['backgrounds'],['blue',None,None])
+ def test_invalid_backgrounds(self):
+  self.enable_backgrounds()
+  for values in [['missing',None,None],['blue'],[{},None,None]]:
+   p=self.selection([1,2,3]);d=m.read(p);d['backgrounds']=values;m.write(p,d)
+   with self.assertRaises(ValueError):m.assemble(self.root,self.base/'bad-colors',None,p)
+ def test_palette_requires_hooks(self):
+  c=m.read(self.root/'content.json');c['backgroundOptions']=[{'id':'blue','label':'Blue','color':'#123B64','textColor':'#FFFFFF'}];m.write(self.root/'content.json',c)
+  with self.assertRaises(ValueError):m.inspect(self.root)
 if __name__=='__main__':unittest.main()

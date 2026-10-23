@@ -58,3 +58,21 @@ HTML — основной рабочий формат сборки. Для Figma
 ## Проверка
 
 `python3 -m unittest discover -s tests -p 'test_*.py'` проверяет сборку, ошибки выбора, версии и содержание. Браузерная проверка должна охватывать переключение вариантов, перезагрузку, экспорт и мобильную вёрстку. Новые варианты требуют собственной визуальной проверки; текстовая проверка не доказывает отсутствие обрезки.
+
+## Per-slide background colors
+
+Define `backgroundOptions` in `content.json` using the client's palette, e.g.:
+
+```json
+"backgroundOptions": [
+  {"id":"light","label":"Светлый","color":"#FFFFFF","textColor":"#000000"},
+  {"id":"dark","label":"Тёмный","color":"#000000","textColor":"#FFFFFF"},
+  {"id":"blue","label":"Синий","color":"#1557FF","textColor":"#FFFFFF"}
+]
+```
+
+IDs are unique lowercase letters/digits/hyphens; colors are six-digit hex. Add `data-background-surface` to the actual slide background element (not only the outer body), and `data-background-ink` to text that must follow its foreground color. Do not mark text on independently colored/photo panels unless it should change too. Keep image fills, decorative patterns and charts separate. Explicitly check readability for every permitted background and all five compositions. The UI displays only the supplied palette plus “Исходный” to restore the variant's original design.
+
+The selected background is independent of the layout number and applies across its five variants. `selection.json` includes `backgrounds`, an array aligned with `slideIds`; each entry is a palette ID or `null` for the original design. Older selection files without the field retain original backgrounds. The assembler validates IDs and injects the same narrowly targeted background/foreground CSS used by the viewer. No HTML changes are made for a `null` background.
+
+When any background has changed, the viewer's copy action copies the complete selection JSON instead of a bare number list, so colors and project identity are preserved. Ask for that JSON/file if the user wants changed backgrounds but only supplies layout numbers; do not silently discard their colors. Plain number lists still mean original backgrounds. Palette or background-hook changes alter the bundle fingerprint, so bump the version and prepare again before review.

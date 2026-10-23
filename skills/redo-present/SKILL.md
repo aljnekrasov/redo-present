@@ -31,7 +31,7 @@ Record the selected image-to-slide mapping in the project so the five design alt
 
 ## Create alternatives
 
-Read [the bundle format and commands](references/format.md). Store canonical text in content.json. Create five genuinely different appropriate compositions for each slide, sharing exactly the same content; five recolorings are not five designs. Follow client-specific rules on typography, imagery, backgrounds and narrative rhythm. Keep content and designs separate.
+Read [the bundle format and commands](references/format.md). Store canonical text in content.json. Create five genuinely different appropriate compositions for each slide, sharing exactly the same content; five recolorings are not five designs. Follow client-specific rules on typography, imagery, backgrounds and narrative rhythm. Keep content and designs separate. Provide a per-slide background picker: define client-approved `backgroundOptions` in content.json and mark background surfaces and their foreground text as described in the bundle format. Check contrast for every offered color; preserve photos. Background choices must survive preview, export and final assembly.
 
 Generate static HTML variants and variants.json. All dependencies must live inside the working bundle. Run the bundled `scripts/studio.py validate` and `prepare` commands with absolute paths. Prepare copies the existing `assets/viewer/` into the bundle and records its identity; do not generate a new selector. Visually inspect every variant for loading, clipping, collisions and readability. Text validation is not a substitute for visual inspection.
 
@@ -39,7 +39,7 @@ Open the bundle's selector.html, preferably through a loopback-only local HTTP s
 
 ## Assemble the chosen presentation
 
-Accept the downloaded selection.json or a number list. Identify the reviewed project and version. For a plain list, use the fingerprint from that reviewed manifest, not a regenerated set. Ask only if the intended set is ambiguous or the list invalid.
+Accept the downloaded selection.json or a number list. Identify the reviewed project and version. For a plain list, use the fingerprint from that reviewed manifest, not a regenerated set. Ask only if the intended set is ambiguous or the list invalid. If backgrounds were changed, use the full selection JSON/file containing `backgrounds`; a bare layout-number list cannot preserve those colors.
 
 Run `scripts/studio.py assemble` to a new output directory. It copies the chosen designs without regenerating them. Preserve selections even if their combination could improve in rhythm; report suggestions separately. Verify the assembled presentation loads with its dependencies.
 

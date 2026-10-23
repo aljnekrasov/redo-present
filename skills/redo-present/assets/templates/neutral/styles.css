@@ -1,0 +1,32 @@
+@import url("./theme.css");
+@import url("./layout.css");
+
+
+
+
+
+*{box-sizing:border-box}
+html,body{margin:0}
+p{margin:0}
+.slide-page{background:var(--color-black);font-family:var(--font-brand);font-weight:400}
+.slide{position:relative;width:var(--slide-width);height:var(--slide-height);overflow:hidden;transform-origin:top left;background:var(--color-white)}
+.slide>div{overflow:hidden}
+.slide img{display:block}
+.slide>div{isolation:isolate}
+.slide>div>p,.slide>div>div:has(>p){z-index:1}
+
+
+
+
+
+
+
+
+
+
+
+
+@page{size:20in 11.25in;margin:0}
+@media print{.slide-page{width:1920px;height:1080px;background:none}.slide{transform:none!important;margin:0!important;break-after:page;print-color-adjust:exact;-webkit-print-color-adjust:exact}}
+
+.wave-pattern{position:absolute;inset:0;pointer-events:none;background:currentColor;mask:var(--pattern-image) center/cover no-repeat;-webkit-mask:var(--pattern-image) center/cover no-repeat;opacity:var(--pattern-opacity);z-index:0}.placeholder-media{object-fit:cover}.slide>div>p,.slide>div>div:has(>p){z-index:1}

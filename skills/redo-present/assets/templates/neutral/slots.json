@@ -1,0 +1,2697 @@
+[
+  {
+    "layout": "001",
+    "slot": "text-01",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "001",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "001",
+    "slot": "text-03",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "001",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "001",
+    "slot": "text-05",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "001",
+    "slot": "text-06",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "002",
+    "slot": "text-01",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "002",
+    "slot": "text-02",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "002",
+    "slot": "text-03",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "002",
+    "slot": "text-04",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "002",
+    "slot": "text-05",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "002",
+    "slot": "text-06",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "002",
+    "slot": "text-07",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "002",
+    "slot": "text-08",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "003",
+    "slot": "text-01",
+    "placeholder": "Тема"
+  },
+  {
+    "layout": "003",
+    "slot": "text-02",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "003",
+    "slot": "text-03",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "003",
+    "slot": "text-04",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "004",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "004",
+    "slot": "text-02",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "004",
+    "slot": "text-03",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "004",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "004",
+    "slot": "text-05",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "005",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "005",
+    "slot": "text-02",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "005",
+    "slot": "text-03",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "005",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "005",
+    "slot": "text-05",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "006",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "006",
+    "slot": "text-02",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "006",
+    "slot": "text-03",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "006",
+    "slot": "text-04",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "007",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "007",
+    "slot": "text-02",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "007",
+    "slot": "text-03",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "007",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "007",
+    "slot": "text-05",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "008",
+    "slot": "text-01",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "008",
+    "slot": "text-02",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "008",
+    "slot": "text-03",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "008",
+    "slot": "text-04",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "008",
+    "slot": "text-05",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "008",
+    "slot": "text-06",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "008",
+    "slot": "text-07",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "008",
+    "slot": "text-08",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "009",
+    "slot": "text-01",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "009",
+    "slot": "text-02",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "009",
+    "slot": "text-03",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "009",
+    "slot": "text-04",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "009",
+    "slot": "text-05",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "009",
+    "slot": "text-06",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "009",
+    "slot": "text-07",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "009",
+    "slot": "text-08",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "009",
+    "slot": "text-09",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "009",
+    "slot": "text-10",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "010",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "010",
+    "slot": "text-02",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "010",
+    "slot": "text-03",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "010",
+    "slot": "text-04",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "011",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "011",
+    "slot": "text-02",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "011",
+    "slot": "text-03",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "011",
+    "slot": "text-04",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "012",
+    "slot": "text-01",
+    "placeholder": "XX%"
+  },
+  {
+    "layout": "012",
+    "slot": "text-02",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "012",
+    "slot": "text-03",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "012",
+    "slot": "text-04",
+    "placeholder": "XX%"
+  },
+  {
+    "layout": "012",
+    "slot": "text-05",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "012",
+    "slot": "text-06",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "012",
+    "slot": "text-07",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "012",
+    "slot": "text-08",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "012",
+    "slot": "text-09",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "013",
+    "slot": "text-01",
+    "placeholder": "XX%"
+  },
+  {
+    "layout": "013",
+    "slot": "text-02",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "013",
+    "slot": "text-03",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "013",
+    "slot": "text-04",
+    "placeholder": "XX%"
+  },
+  {
+    "layout": "013",
+    "slot": "text-05",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "013",
+    "slot": "text-06",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "013",
+    "slot": "text-07",
+    "placeholder": "Тема"
+  },
+  {
+    "layout": "013",
+    "slot": "text-08",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "013",
+    "slot": "text-09",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "013",
+    "slot": "text-10",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "013",
+    "slot": "text-11",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "013",
+    "slot": "text-12",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "014",
+    "slot": "text-01",
+    "placeholder": "Тема"
+  },
+  {
+    "layout": "014",
+    "slot": "text-02",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "014",
+    "slot": "text-03",
+    "placeholder": "XX%"
+  },
+  {
+    "layout": "014",
+    "slot": "text-04",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "014",
+    "slot": "text-05",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "014",
+    "slot": "text-06",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "014",
+    "slot": "text-07",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "015",
+    "slot": "text-01",
+    "placeholder": "XX%"
+  },
+  {
+    "layout": "015",
+    "slot": "text-03",
+    "placeholder": "Главная мысль Главная мысль"
+  },
+  {
+    "layout": "015",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "015",
+    "slot": "text-05",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "015",
+    "slot": "text-06",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "016",
+    "slot": "text-01",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "016",
+    "slot": "text-02",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "016",
+    "slot": "text-03",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "016",
+    "slot": "text-04",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "016",
+    "slot": "text-05",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "016",
+    "slot": "text-06",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "016",
+    "slot": "text-07",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "016",
+    "slot": "text-08",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "016",
+    "slot": "text-09",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "016",
+    "slot": "text-10",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "016",
+    "slot": "text-11",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "017",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "017",
+    "slot": "text-02",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "017",
+    "slot": "text-03",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "017",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "017",
+    "slot": "text-05",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "018",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "018",
+    "slot": "text-02",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "018",
+    "slot": "text-03",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "018",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "018",
+    "slot": "text-05",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "019",
+    "slot": "text-06",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "019",
+    "slot": "text-07",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "019",
+    "slot": "text-08",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "019",
+    "slot": "logo",
+    "placeholder": "ЛОГО"
+  },
+  {
+    "layout": "019",
+    "slot": "closing-title",
+    "placeholder": "Завершение"
+  },
+  {
+    "layout": "020",
+    "slot": "text-01",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "020",
+    "slot": "text-02",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "020",
+    "slot": "text-03",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "020",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "020",
+    "slot": "text-05",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "021",
+    "slot": "text-01",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "021",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "021",
+    "slot": "text-03",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "021",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "021",
+    "slot": "text-05",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "022",
+    "slot": "text-01",
+    "placeholder": "—"
+  },
+  {
+    "layout": "022",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "022",
+    "slot": "text-03",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "022",
+    "slot": "text-04",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "022",
+    "slot": "text-05",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "022",
+    "slot": "text-06",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "022",
+    "slot": "text-07",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "023",
+    "slot": "text-01",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "023",
+    "slot": "text-02",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "023",
+    "slot": "text-03",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "023",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "023",
+    "slot": "text-05",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "024",
+    "slot": "text-01",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "024",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "024",
+    "slot": "text-03",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "024",
+    "slot": "text-04",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "024",
+    "slot": "text-05",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "024",
+    "slot": "text-06",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "024",
+    "slot": "text-07",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "024",
+    "slot": "text-08",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "024",
+    "slot": "text-09",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "025",
+    "slot": "text-01",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "025",
+    "slot": "text-02",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "025",
+    "slot": "text-03",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "025",
+    "slot": "text-04",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "026",
+    "slot": "text-01",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "026",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "026",
+    "slot": "text-03",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "026",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "026",
+    "slot": "text-05",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "026",
+    "slot": "text-06",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "027",
+    "slot": "text-01",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "027",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "027",
+    "slot": "text-03",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "027",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "027",
+    "slot": "text-05",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "027",
+    "slot": "text-06",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "028",
+    "slot": "text-01",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "028",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "028",
+    "slot": "text-03",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "028",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "028",
+    "slot": "text-05",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "028",
+    "slot": "text-06",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "029",
+    "slot": "text-01",
+    "placeholder": "Тема"
+  },
+  {
+    "layout": "029",
+    "slot": "text-02",
+    "placeholder": "Тема"
+  },
+  {
+    "layout": "029",
+    "slot": "text-03",
+    "placeholder": "Тема"
+  },
+  {
+    "layout": "029",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "029",
+    "slot": "text-05",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "029",
+    "slot": "text-06",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "030",
+    "slot": "text-01",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "030",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "030",
+    "slot": "text-03",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "030",
+    "slot": "text-04",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "030",
+    "slot": "text-05",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "030",
+    "slot": "text-06",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "030",
+    "slot": "text-07",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "030",
+    "slot": "text-08",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "030",
+    "slot": "text-09",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "030",
+    "slot": "text-10",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "030",
+    "slot": "text-11",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "030",
+    "slot": "text-12",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "030",
+    "slot": "text-13",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "030",
+    "slot": "text-14",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "030",
+    "slot": "text-15",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "031",
+    "slot": "text-01",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "031",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "031",
+    "slot": "text-03",
+    "placeholder": "—"
+  },
+  {
+    "layout": "031",
+    "slot": "text-04",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "031",
+    "slot": "text-05",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "031",
+    "slot": "text-06",
+    "placeholder": "—"
+  },
+  {
+    "layout": "031",
+    "slot": "text-07",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "031",
+    "slot": "text-08",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "031",
+    "slot": "text-09",
+    "placeholder": "—"
+  },
+  {
+    "layout": "031",
+    "slot": "text-10",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "031",
+    "slot": "text-11",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "031",
+    "slot": "text-12",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "031",
+    "slot": "text-13",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "031",
+    "slot": "text-14",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "032",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "032",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "032",
+    "slot": "text-03",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "032",
+    "slot": "text-04",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "032",
+    "slot": "text-05",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "032",
+    "slot": "text-06",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "032",
+    "slot": "text-07",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "032",
+    "slot": "text-08",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "032",
+    "slot": "text-09",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "032",
+    "slot": "text-10",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "032",
+    "slot": "text-11",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "032",
+    "slot": "text-12",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "032",
+    "slot": "text-13",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "032",
+    "slot": "text-14",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "033",
+    "slot": "text-01",
+    "placeholder": "Тема"
+  },
+  {
+    "layout": "033",
+    "slot": "text-02",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "033",
+    "slot": "text-03",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "033",
+    "slot": "text-04",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "033",
+    "slot": "text-05",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "033",
+    "slot": "text-06",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "033",
+    "slot": "text-07",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "033",
+    "slot": "text-08",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "034",
+    "slot": "text-02",
+    "placeholder": "Главная мысль Главная мысль"
+  },
+  {
+    "layout": "035",
+    "slot": "text-01",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "035",
+    "slot": "text-02",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "035",
+    "slot": "text-03",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "035",
+    "slot": "text-04",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "035",
+    "slot": "text-05",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "035",
+    "slot": "text-06",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "035",
+    "slot": "text-07",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "035",
+    "slot": "text-08",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "035",
+    "slot": "text-09",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "035",
+    "slot": "text-10",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "035",
+    "slot": "text-11",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "035",
+    "slot": "text-12",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "035",
+    "slot": "text-13",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "035",
+    "slot": "text-14",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "035",
+    "slot": "text-15",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "036",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "036",
+    "slot": "text-02",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "036",
+    "slot": "text-03",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "036",
+    "slot": "text-04",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "036",
+    "slot": "text-05",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "036",
+    "slot": "text-06",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "036",
+    "slot": "text-07",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "036",
+    "slot": "text-08",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "036",
+    "slot": "text-09",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "036",
+    "slot": "text-10",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "036",
+    "slot": "text-11",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "036",
+    "slot": "text-12",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "036",
+    "slot": "text-13",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "036",
+    "slot": "text-14",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "036",
+    "slot": "text-15",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "036",
+    "slot": "text-16",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "037",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "037",
+    "slot": "text-02",
+    "placeholder": "XX%"
+  },
+  {
+    "layout": "037",
+    "slot": "text-03",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "037",
+    "slot": "text-04",
+    "placeholder": "XX%"
+  },
+  {
+    "layout": "037",
+    "slot": "text-05",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "037",
+    "slot": "text-06",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "037",
+    "slot": "text-07",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "037",
+    "slot": "text-08",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "037",
+    "slot": "text-09",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "037",
+    "slot": "text-10",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "038",
+    "slot": "text-01",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "038",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "038",
+    "slot": "text-03",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "038",
+    "slot": "text-04",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "038",
+    "slot": "text-05",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "038",
+    "slot": "text-06",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "038",
+    "slot": "text-07",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "038",
+    "slot": "text-08",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "038",
+    "slot": "text-09",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "038",
+    "slot": "text-10",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "038",
+    "slot": "text-11",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "038",
+    "slot": "text-12",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "038",
+    "slot": "text-13",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "038",
+    "slot": "text-14",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "038",
+    "slot": "text-15",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "038",
+    "slot": "text-16",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "038",
+    "slot": "text-17",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "038",
+    "slot": "text-18",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "038",
+    "slot": "text-19",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "038",
+    "slot": "text-20",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "038",
+    "slot": "text-21",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "038",
+    "slot": "text-22",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "038",
+    "slot": "text-23",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "038",
+    "slot": "text-24",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "038",
+    "slot": "text-25",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "038",
+    "slot": "text-26",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "038",
+    "slot": "text-27",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "038",
+    "slot": "text-28",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "038",
+    "slot": "text-29",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "039",
+    "slot": "text-01",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "039",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "039",
+    "slot": "text-03",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "039",
+    "slot": "text-04",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "039",
+    "slot": "text-05",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "039",
+    "slot": "text-06",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "039",
+    "slot": "text-07",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "039",
+    "slot": "text-08",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "039",
+    "slot": "text-09",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "039",
+    "slot": "text-10",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "039",
+    "slot": "text-11",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "039",
+    "slot": "text-12",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "039",
+    "slot": "text-13",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "040",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "040",
+    "slot": "text-04",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта. Добавьте описание."
+  },
+  {
+    "layout": "040",
+    "slot": "text-05",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "040",
+    "slot": "text-06",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-07",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-08",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-09",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-10",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-11",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-12",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-13",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-14",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "040",
+    "slot": "text-15",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-16",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-17",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-18",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-19",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-20",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-21",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "040",
+    "slot": "text-22",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "040",
+    "slot": "text-23",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-24",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-25",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-26",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-27",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-28",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-29",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-30",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-31",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-32",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-33",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-34",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-35",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "040",
+    "slot": "text-36",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "040",
+    "slot": "text-37",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "040",
+    "slot": "text-38",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "041",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "041",
+    "slot": "text-04",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта. Добавьте описание."
+  },
+  {
+    "layout": "041",
+    "slot": "text-05",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "041",
+    "slot": "text-06",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "041",
+    "slot": "text-07",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-08",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-09",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-10",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-11",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-12",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-13",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-14",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-15",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "041",
+    "slot": "text-16",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-17",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-18",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-19",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-20",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-21",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "041",
+    "slot": "text-22",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "041",
+    "slot": "text-23",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "042",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "042",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "042",
+    "slot": "text-03",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "042",
+    "slot": "text-04",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "042",
+    "slot": "text-05",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "042",
+    "slot": "text-06",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "042",
+    "slot": "text-07",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "042",
+    "slot": "text-08",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-09",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-10",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-11",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-12",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-13",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-14",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-15",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-16",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-17",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-18",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-19",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-20",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "042",
+    "slot": "text-21",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "042",
+    "slot": "text-22",
+    "placeholder": "Тема"
+  },
+  {
+    "layout": "042",
+    "slot": "text-23",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "042",
+    "slot": "text-24",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "042",
+    "slot": "text-25",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "042",
+    "slot": "text-26",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "042",
+    "slot": "text-27",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "042",
+    "slot": "text-28",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "042",
+    "slot": "text-29",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "042",
+    "slot": "text-30",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "042",
+    "slot": "text-32",
+    "placeholder": "Подпись Подпись"
+  },
+  {
+    "layout": "043",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "043",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "043",
+    "slot": "text-03",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "043",
+    "slot": "text-04",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "043",
+    "slot": "text-05",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "043",
+    "slot": "text-06",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "043",
+    "slot": "text-07",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "043",
+    "slot": "text-08",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "043",
+    "slot": "text-09",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "043",
+    "slot": "text-10",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "043",
+    "slot": "text-11",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "043",
+    "slot": "text-12",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "043",
+    "slot": "text-13",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "043",
+    "slot": "text-14",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "043",
+    "slot": "text-15",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "043",
+    "slot": "text-16",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "043",
+    "slot": "text-17",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "044",
+    "slot": "text-01",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "044",
+    "slot": "text-02",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "044",
+    "slot": "text-03",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "044",
+    "slot": "text-04",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "044",
+    "slot": "text-05",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "045",
+    "slot": "text-01",
+    "placeholder": "—"
+  },
+  {
+    "layout": "045",
+    "slot": "text-02",
+    "placeholder": "—"
+  },
+  {
+    "layout": "045",
+    "slot": "text-03",
+    "placeholder": "—"
+  },
+  {
+    "layout": "045",
+    "slot": "text-04",
+    "placeholder": "—"
+  },
+  {
+    "layout": "045",
+    "slot": "text-05",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "045",
+    "slot": "text-06",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "045",
+    "slot": "text-07",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "045",
+    "slot": "text-08",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "045",
+    "slot": "text-09",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "046",
+    "slot": "text-01",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "046",
+    "slot": "text-02",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "046",
+    "slot": "text-03",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "046",
+    "slot": "text-04",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "046",
+    "slot": "text-05",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "047",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "047",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "047",
+    "slot": "text-04",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта. Добавьте описание."
+  },
+  {
+    "layout": "047",
+    "slot": "text-05",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "047",
+    "slot": "text-06",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-07",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-08",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-09",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-10",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-11",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-12",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-13",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-14",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "047",
+    "slot": "text-15",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-16",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-17",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-18",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-19",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-20",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "047",
+    "slot": "text-21",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "048",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "048",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "048",
+    "slot": "text-04",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта. Добавьте описание."
+  },
+  {
+    "layout": "048",
+    "slot": "text-05",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "048",
+    "slot": "text-06",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-07",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-08",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-09",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-10",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-11",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-12",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-13",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-14",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "048",
+    "slot": "text-15",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-16",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-17",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-18",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-19",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-20",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "048",
+    "slot": "text-21",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "049",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "049",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "049",
+    "slot": "text-03",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "049",
+    "slot": "text-04",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "049",
+    "slot": "text-05",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-06",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-07",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-08",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-09",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-10",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-11",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-12",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-13",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-14",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-15",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-16",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-17",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "049",
+    "slot": "text-18",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "049",
+    "slot": "text-19",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "049",
+    "slot": "text-20",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "050",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "050",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "050",
+    "slot": "text-03",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "050",
+    "slot": "text-04",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "050",
+    "slot": "text-05",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "050",
+    "slot": "text-06",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "050",
+    "slot": "text-07",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "050",
+    "slot": "text-08",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "050",
+    "slot": "text-09",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "050",
+    "slot": "text-10",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "050",
+    "slot": "text-11",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "050",
+    "slot": "text-12",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "050",
+    "slot": "text-13",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "050",
+    "slot": "text-14",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "050",
+    "slot": "text-15",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "051",
+    "slot": "text-01",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "051",
+    "slot": "text-02",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "051",
+    "slot": "text-03",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "051",
+    "slot": "text-04",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "051",
+    "slot": "text-05",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "052",
+    "slot": "text-01",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "052",
+    "slot": "text-02",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "052",
+    "slot": "text-03",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "052",
+    "slot": "text-04",
+    "placeholder": "Опишите ключевую мысль и замените этот текст материалами проекта."
+  },
+  {
+    "layout": "052",
+    "slot": "text-05",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "052",
+    "slot": "text-06",
+    "placeholder": "Добавьте описание."
+  },
+  {
+    "layout": "052",
+    "slot": "text-07",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "052",
+    "slot": "text-08",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "052",
+    "slot": "text-09",
+    "placeholder": "XX"
+  },
+  {
+    "layout": "053",
+    "slot": "text-01",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "053",
+    "slot": "text-02",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "053",
+    "slot": "text-03",
+    "placeholder": "Заголовок"
+  },
+  {
+    "layout": "053",
+    "slot": "text-04",
+    "placeholder": "Подпись"
+  },
+  {
+    "layout": "053",
+    "slot": "text-05",
+    "placeholder": "Главная мысль"
+  },
+  {
+    "layout": "053",
+    "slot": "text-06",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "053",
+    "slot": "text-07",
+    "placeholder": "Название проекта · пример"
+  },
+  {
+    "layout": "053",
+    "slot": "text-08",
+    "placeholder": "XX"
+  }
+]

@@ -37,12 +37,13 @@ def palette(content):
     for o in options:
         if not isinstance(o,dict) or not re.fullmatch(r'[a-z0-9-]+',o.get('id','')) or not isinstance(o.get('label'),str):raise ValueError('Invalid background option')
         if any(not re.fullmatch(r'#[0-9a-fA-F]{6}',o.get(k,'')) for k in ['color','textColor']):raise ValueError('Background colors must be six-digit hex values')
+        if 'pattern' in o and type(o['pattern']) is not bool:raise ValueError('pattern must be boolean')
         ids.append(o['id'])
     if len(ids)!=len(set(ids)):raise ValueError('Duplicate background IDs')
     return options
 
 def background_css(option):
-    return '[data-background-surface]{background-color:'+option['color']+'!important;color:'+option['textColor']+'!important}[data-background-ink]{color:'+option['textColor']+'!important}'
+    return '[data-background-surface]{background-color:'+option['color']+'!important;color:'+option['textColor']+'!important}[data-background-ink]{color:'+option['textColor']+'!important}[data-background-pattern]{display:none!important}'+('[data-background-pattern]:not([data-pattern-allowed="false"]){display:block!important}' if option.get('pattern',False) else '')
 
 def inspect(root):
     root=root.resolve()

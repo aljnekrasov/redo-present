@@ -61,4 +61,10 @@ class StudioTest(unittest.TestCase):
  def test_palette_requires_hooks(self):
   c=m.read(self.root/'content.json');c['backgroundOptions']=[{'id':'blue','label':'Blue','color':'#123B64','textColor':'#FFFFFF'}];m.write(self.root/'content.json',c)
   with self.assertRaises(ValueError):m.inspect(self.root)
+ def test_pattern_treatment_is_saved(self):
+  self.enable_backgrounds();c=m.read(self.root/'content.json');c['version']='3';c['backgroundOptions'][0]['pattern']=True;m.write(self.root/'content.json',c);m.prepare(self.root);self.man=m.read(self.root/'manifest.json')
+  p=self.selection([1,1,1]);d=m.read(p);d['backgrounds']=['blue',None,None];m.write(p,d);out=self.base/'pattern';m.assemble(self.root,out,None,p)
+  self.assertIn('display:block!important',(out/'variants/cover/1.html').read_text())
+  self.assertIn('data-pattern-allowed="false"',(out/'variants/cover/1.html').read_text())
+  self.assertNotIn('display:block',m.background_css({'color':'#FFFFFF','textColor':'#000000'}))
 if __name__=='__main__':unittest.main()

@@ -13,6 +13,22 @@ Identify the requested client, business task, audience, source content and outpu
 
 Keep brand rules in that client library, not in this generic skill. Preserve source facts and material caveats. Establish slide order and content before making variants; if a crowded slide needs splitting, do that first. Preserve the original deck unless replacement was requested.
 
+## Content scope and photographs
+
+At the start of a new presentation, establish whether the user permits content additions before drafting or expanding the content. Ask if the answer is not already explicit in the conversation:
+
+> Дополнять содержание презентации — предлагать новые тезисы, пояснения и выводы — или использовать только предоставленный материал?
+
+If the user chooses source material only, preserve its facts, meaning and caveats; restructure and format it without adding new claims, examples or conclusions. Respect any request to keep wording verbatim. If additions are allowed, add useful explanations and narrative transitions for the business task, keeping sourced facts distinct from proposals and assumptions. Never invent client metrics, achievements, quotations or evidence. Resolve essential factual gaps with the user or reliable sources. While awaiting the content-scope answer, inspect source material and prepare visual assets, but do not treat silence as permission to expand. Record the decision in the project's brief and do not ask again during variant selection or assembly.
+
+Request photographs early, unless suitable files have already been supplied or the user has explicitly chosen a presentation without photos or another image source. Explain the naming workflow in the user's language, for example:
+
+> Пришлите фотографии для презентации или укажите папку с ними. Понятные названия — например, «команда», «фасад», «номер люкс» — помогут определить, что изображено и на какой слайд поставить фото. Если названия технические, например IMG_001, я посмотрю сами изображения и подберу размещение по их содержанию. Переименовывать файлы необязательно.
+
+Use descriptive filenames and folder names as placement hints, then visually inspect the photos to verify subject, orientation, quality and cropping. For generic or absent descriptive names, inspect each image and infer a suitable slide from visible content and the slide's message. Do not infer a person's identity, an exact location or product model from appearance alone; clarify only if that distinction matters. If a filename conflicts with the image or its intended use is ambiguous, flag the mismatch instead of assigning confidently. If image inspection is unavailable, explain that and request short descriptions rather than pretending to have seen the photos.
+
+Record the selected image-to-slide mapping in the project so the five design alternatives use appropriate assets consistently. If photos are unavailable, ask whether to proceed without photos, with clearly identified placeholders, or with generated/sourced images. Do not silently present template imagery as the client's real photographs. Reuse any already-stated preference rather than repeating this question.
+
 ## Create alternatives
 
 Read [the bundle format and commands](references/format.md). Store canonical text in content.json. Create five genuinely different appropriate compositions for each slide, sharing exactly the same content; five recolorings are not five designs. Follow client-specific rules on typography, imagery, backgrounds and narrative rhythm. Keep content and designs separate.

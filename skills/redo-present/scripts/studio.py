@@ -21,10 +21,12 @@ class ContentParser(HTMLParser):
         if 'data-content-id' in a:
             if self.active or a['data-content-id'] in self.blocks: raise ValueError('Duplicate or nested content block')
             self.active=a['data-content-id'];self.blocks[self.active]='';self.depth=0
+        if self.active and tag in ['p','h1','h2','h3','h4','h5','h6','li','ul','ol','table','caption','thead','tbody','tfoot','tr','th','td','div','section','blockquote']:self.blocks[self.active]+=' '
         if self.active and tag not in ['img','br','hr','meta','link','input']: self.depth+=1
         if self.active and tag=='br': self.blocks[self.active]+=' '
     def handle_endtag(self,tag):
         if self.active:
+            if tag in ['p','h1','h2','h3','h4','h5','h6','li','ul','ol','table','caption','thead','tbody','tfoot','tr','th','td','div','section','blockquote']:self.blocks[self.active]+=' '
             self.depth-=1
             if self.depth==0:self.active=None
     def handle_data(self,data):
